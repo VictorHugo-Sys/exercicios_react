@@ -1,12 +1,3 @@
-# React + Vite
+Uma simples lista de exercícios em React, criada para praticar conceitos básicos. É um projetinho antigo, focado apenas na lógica. A estilização foi mínima, apenas o suficiente para manter a legibilidade. <br>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+[![Website](https://img.shields.io/badge/Meu_Site-1E90FF?style=flat-square&logo=google-chrome&logoColor=white)](https://victorhugo-sys.github.io/exercicios_react/)
